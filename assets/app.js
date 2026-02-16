@@ -57,7 +57,7 @@ function normalizeCoursesIndex(raw) {
       id: safeText(c?.id),
       title: safeText(c?.title),
       short: safeText(c?.short || c?.title),
-      page: safeText(c?.page || `/course.html?course=${safeText(c?.id)}`),
+      page: safeText(c?.page || `course.html?course=${safeText(c?.id)}`),
     }))
     .filter((c) => c.id && c.title && c.id !== "admin")
 }
@@ -200,7 +200,7 @@ function renderTimeline(groups) {
             <div class="mt-1 text-sm font-semibold text-neutral-900">${safeText(o.task.name)}</div>
             <div class="mt-1 text-xs text-neutral-600">${safeText(o.task.description)}</div>
           </div>
-          <a class="text-xs text-blue-700 hover:underline" href="/course.html?course=${encodeURIComponent(o.task.course)}">Kurs</a>
+          <a class="text-xs text-blue-700 hover:underline" href="course.html?course=${encodeURIComponent(o.task.course)}">Kurs</a>
         </div>
       `
       list.appendChild(row)
@@ -214,12 +214,12 @@ function renderTimeline(groups) {
 }
 
 ;(async () => {
-  const courseIndex = await loadYaml("/courses/index.yml")
+  const courseIndex = await loadYaml("../courses/index.yml")
   const courses = normalizeCoursesIndex(courseIndex)
   const coursesById = {}
   for (const c of courses) coursesById[c.id] = c
 
-  const tasksRaw = await loadYaml("/tasks.yml")
+  const tasksRaw = await loadYaml("../tasks.yml")
   const tasks = normalizeTasks(tasksRaw)
 
   renderCoursesGrid(courses)

@@ -140,7 +140,7 @@ function renderNotes(data) {
 
 ;(async () => {
   const courseId = qs("course") || "emfw"
-  const ymlUrl = `/courses/${encodeURIComponent(courseId)}.yml`
+  const ymlUrl = `../courses/${encodeURIComponent(courseId)}.yml`
   el("openYaml").href = ymlUrl
 
   const data = await loadYaml(ymlUrl)
