@@ -57,7 +57,7 @@ function normalizeCoursesIndex(raw) {
       id: safeText(c?.id),
       title: safeText(c?.title),
       short: safeText(c?.short || c?.title),
-      page: safeText(c?.page || `../course.html?course=${safeText(c?.id)}`),
+      page: safeText(c?.page || `course.html?course=${safeText(c?.id)}`),
     }))
     .filter((c) => c.id && c.title && c.id !== "admin")
 }
