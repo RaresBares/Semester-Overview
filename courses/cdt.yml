@@ -1,0 +1,15 @@
+id: cdt
+title: Communication and Detection Theory
+code: 227-0104-00L
+ects: 6 KP
+scope: 4G
+lecturers: A. Lapidoth
+description: Detektion/Schätzung, Likelihood, Hypothesentests, Kanäle, Grenzen und Trade-offs.
+schedule:
+  - type: Vorlesung/Gruppe
+    day: Di
+    time: 14:15 - 18:00
+    room: ETZ E 8
+links:
+  - label: Kursseite
+    url: https://www.vvz.ethz.ch/

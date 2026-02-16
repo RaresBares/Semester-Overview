@@ -1,0 +1,19 @@
+id: optics
+title: Optics and Photonics
+code: 227-0125-00L
+ects: 6 KP
+scope: 2V + 2U
+lecturers: J. Leuthold
+description: Grundlagen Optik/Photonik, Wellenoptik, Modulatoren, Fasern, Systeme.
+schedule:
+  - type: Übung
+    day: Di
+    time: 08:15 - 10:00
+    room: ETZ E 6
+  - type: Vorlesung
+    day: Di
+    time: 10:15 - 12:00
+    room: ETZ E 6
+links:
+  - label: Kursseite
+    url: https://www.vvz.ethz.ch/

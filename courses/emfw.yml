@@ -1,0 +1,21 @@
+id: emfw
+title: Elektromagnetische Felder und Wellen
+code: 227-0052-10L
+ects: 4 KP
+scope: 2V + 2U
+lecturers: L. Novotny, u. a.
+description: Grundlagen elektromagnetischer Felder, Wellenausbreitung, Randbedingungen, einfache Wellenleiter/Resonatoren.
+schedule:
+  - type: Vorlesung
+    day: Do
+    time: 10:15 - 12:00
+    room: ETF C 1
+  - type: Übung
+    day: Fr
+    time: 10:15 - 12:00
+    room: ETZ J 91
+links:
+  - label: Kursseite
+    url: https://www.vvz.ethz.ch/
+  - label: Notion / Docs
+    url: https://example.com/

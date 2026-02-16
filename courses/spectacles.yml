@@ -1,0 +1,15 @@
+id: spectacles
+title: The Spectacles of Measurement
+code: 851-0586-02L
+ects: 3 KP
+scope: 2V
+lecturers: U. Brandes, u. a.
+description: Messkulturen, Interpretation, Grenzen von Metriken, Perspektiven auf Quantifizierung.
+schedule:
+  - type: Vorlesung
+    day: Mi
+    time: 18:15 - 20:00
+    room: HG D 1.1
+links:
+  - label: Kursseite
+    url: https://www.vvz.ethz.ch/

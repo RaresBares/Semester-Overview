@@ -1,0 +1,19 @@
+id: numerik
+title: Numerische Methoden
+code: 401-0654-00L
+ects: 4 KP
+scope: 2V + 1U
+lecturers: V. C. Gradinaru
+description: Numerische Lineare Algebra, Approximation, ODE/PDE-Methoden (je nach Inhalt), Stabilität/Fehler.
+schedule:
+  - type: Vorlesung
+    day: Di
+    time: 08:15 - 10:00
+    room: ETA F 5
+  - type: Übung
+    day: Fr
+    time: 09:15 - 10:00
+    room: ETZ E 7
+links:
+  - label: Kursseite
+    url: https://www.vvz.ethz.ch/

@@ -1,0 +1,19 @@
+id: hssp
+title: High-Speed Signal Propagation
+code: 227-0112-00L
+ects: 6 KP
+scope: 2V + 2U
+lecturers: C. Bolognesi, u. a.
+description: Leitungstheorie, Reflexionen, Impedanzanpassung, Signalintegrität, Crosstalk.
+schedule:
+  - type: Vorlesung
+    day: Do
+    time: 14:15 - 16:00
+    room: NO C 6
+  - type: Übung
+    day: Di
+    time: 10:15 - 12:00
+    room: IFW A 36
+links:
+  - label: Kursseite
+    url: https://www.vvz.ethz.ch/

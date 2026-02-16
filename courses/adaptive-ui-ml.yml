@@ -1,0 +1,15 @@
+id: adaptive-ui-ml
+title: Adaptive User Interfaces through Machine Learning
+code: 252-3800-00L
+ects: 2 KP
+scope: 2S
+lecturers: C. Holz
+description: Seminar zu ML-gestützten adaptiven UIs, Paper Reading, Diskussion, Präsentation.
+schedule:
+  - type: Seminar
+    day: Mi
+    time: 16:15 - 18:00
+    room: STD G 1
+links:
+  - label: Kursseite
+    url: https://www.vvz.ethz.ch/

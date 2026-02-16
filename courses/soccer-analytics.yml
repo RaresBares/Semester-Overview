@@ -1,0 +1,15 @@
+id: soccer-analytics
+title: Soccer Analytics
+code: 851-0557-00L
+ects: 3 KP
+scope: 2G
+lecturers: U. Brandes
+description: Mathematische Modelle + Skripting für Fußball-Datenanalyse, Methoden/Interpretation.
+schedule:
+  - type: Gruppe
+    day: Di
+    time: 18:15 - 20:00
+    room: HG F 1 / HG F 7
+links:
+  - label: Kursseite
+    url: https://www.vvz.ethz.ch/

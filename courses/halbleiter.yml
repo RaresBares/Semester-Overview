@@ -1,0 +1,19 @@
+id: halbleiter
+title: Halbleiterbauelemente
+code: 227-0056-00L
+ects: 4 KP
+scope: 2V + 2U
+lecturers: C. Bolognesi, u. a.
+description: PN-Übergang, MOS-Strukturen, Dioden/Transistoren, grundlegende Modelle und Anwendungen.
+schedule:
+  - type: Vorlesung
+    day: Mi
+    time: 10:15 - 12:00
+    room: NO C 60
+  - type: Übung
+    day: Mo
+    time: 16:15 - 18:00
+    room: LFW B 1 / LFW C 5 / ETF C 1
+links:
+  - label: Kursseite
+    url: https://www.vvz.ethz.ch/

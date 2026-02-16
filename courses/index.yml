@@ -1,0 +1,104 @@
+courses:
+  - id: emfw
+    title: Elektromagnetische Felder und Wellen
+    short: EMFW
+    ects: 4 KP
+    code: 227-0052-10L
+    yml: /courses/emfw.yml
+    page: /course.html?course=emfw
+
+  - id: halbleiter
+    title: Halbleiterbauelemente
+    short: Halbleiter
+    ects: 4 KP
+    code: 227-0056-00L
+    yml: /courses/halbleiter.yml
+    page: /course.html?course=halbleiter
+
+  - id: cdt
+    title: Communication and Detection Theory
+    short: CDT
+    ects: 6 KP
+    code: 227-0104-00L
+    yml: /courses/cdt.yml
+    page: /course.html?course=cdt
+
+  - id: hssp
+    title: High-Speed Signal Propagation
+    short: HSSP
+    ects: 6 KP
+    code: 227-0112-00L
+    yml: /courses/hssp.yml
+    page: /course.html?course=hssp
+
+  - id: optics
+    title: Optics and Photonics
+    short: Optics
+    ects: 6 KP
+    code: 227-0125-00L
+    yml: /courses/optics.yml
+    page: /course.html?course=optics
+
+  - id: adaptive-ui-ml
+    title: Adaptive User Interfaces through Machine Learning
+    short: AUI-ML
+    ects: 2 KP
+    code: 252-3800-00L
+    yml: /courses/adaptive-ui-ml.yml
+    page: /course.html?course=adaptive-ui-ml
+
+  - id: wstats
+    title: Wahrscheinlichkeitstheorie und Statistik
+    short: W-Stats
+    ects: 4 KP
+    code: 401-0604-00L
+    yml: /courses/wstats.yml
+    page: /course.html?course=wstats
+
+  - id: numerik
+    title: Numerische Methoden
+    short: Numerik
+    ects: 4 KP
+    code: 401-0654-00L
+    yml: /courses/numerik.yml
+    page: /course.html?course=numerik
+
+  - id: soccer-analytics
+    title: Soccer Analytics
+    short: Soccer
+    ects: 3 KP
+    code: 851-0557-00L
+    yml: /courses/soccer-analytics.yml
+    page: /course.html?course=soccer-analytics
+
+  - id: spectacles
+    title: The Spectacles of Measurement
+    short: Spectacles
+    ects: 3 KP
+    code: 851-0586-02L
+    yml: /courses/spectacles.yml
+    page: /course.html?course=spectacles
+
+  - id: ps1
+    title: P&S Kurs 1
+    short: P&S 1
+    ects: ""
+    code: ""
+    yml: /courses/ps1.yml
+    page: /course.html?course=ps1
+
+  - id: ps2
+    title: P&S Kurs 2
+    short: P&S 2
+    ects: ""
+    code: ""
+    yml: /courses/ps2.yml
+    page: /course.html?course=ps2
+
+  - id: admin
+    title: Admin / Orga
+    short: Admin
+    ects: ""
+    code: ""
+    yml: /courses/admin.yml
+    page: /course.html?course=admin

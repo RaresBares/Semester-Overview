@@ -1,0 +1,43 @@
+tasks:
+  - id: emfw-pset
+    course: emfw
+    name: Übungsserie abgeben
+    description: Abgabe im jeweiligen Tool
+    start: 2026-02-20
+    frequency: weekly
+
+  - id: halbleiter-lab
+    course: halbleiter
+    name: Praktikumsaufgabe
+    description: Vorbereitung + Upload
+    start: 2026-02-23
+    frequency: biweekly
+
+  - id: cdt-hw
+    course: cdt
+    name: Homework
+    description: Sheet + kurze Notizen
+    start: 2026-02-24
+    frequency: weekly
+
+  - id: numerik-quiz
+    course: numerik
+    name: Kurzquiz
+    description: Wiederholung + Quiz
+    start: 2026-03-03
+    frequency: weekly
+    until: 2026-05-31
+
+  - id: optics-report
+    course: optics
+    name: Report
+    description: 1 Seite Summary
+    start: 2026-03-15
+    frequency: monthly
+
+  - id: auiml-talk
+    course: adaptive-ui-ml
+    name: Seminar Slot
+    description: Slides finalisieren
+    start: 2026-04-08
+    frequency: unique

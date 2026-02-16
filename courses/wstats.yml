@@ -1,0 +1,19 @@
+id: wstats
+title: Wahrscheinlichkeitstheorie und Statistik
+code: 401-0604-00L
+ects: 4 KP
+scope: 2V + 1U
+lecturers: P. Cheridito
+description: Zufallsvariablen, Verteilungen, Grenzwertsätze, Schätzer, Konfidenz, Tests (je nach Fokus).
+schedule:
+  - type: Vorlesung
+    day: Mo
+    time: 10:15 - 12:00
+    room: HG F 1
+  - type: Übung
+    day: Mo
+    time: 13:15 - 14:00
+    room: HG D 5.2
+links:
+  - label: Kursseite
+    url: https://www.vvz.ethz.ch/
