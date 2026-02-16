@@ -200,7 +200,7 @@ function renderTimeline(groups) {
             <div class="mt-1 text-sm font-semibold text-neutral-900">${safeText(o.task.name)}</div>
             <div class="mt-1 text-xs text-neutral-600">${safeText(o.task.description)}</div>
           </div>
-          <a class="text-xs text-blue-700 hover:underline" href="course.html?course=${encodeURIComponent(o.task.course)}">Kurs</a>
+          <a class="text-xs text-blue-700 hover:underline" href="Semester-Overview/course.html?course=${encodeURIComponent(o.task.course)}">Kurs</a>
         </div>
       `
       list.appendChild(row)
