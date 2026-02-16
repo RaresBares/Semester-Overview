@@ -214,12 +214,12 @@ function renderTimeline(groups) {
 }
 
 ;(async () => {
-  const courseIndex = await loadYaml("../courses/index.yml")
+  const courseIndex = await loadYaml("courses/index.yml")
   const courses = normalizeCoursesIndex(courseIndex)
   const coursesById = {}
   for (const c of courses) coursesById[c.id] = c
 
-  const tasksRaw = await loadYaml("../tasks.yml")
+  const tasksRaw = await loadYaml("tasks.yml")
   const tasks = normalizeTasks(tasksRaw)
 
   renderCoursesGrid(courses)
